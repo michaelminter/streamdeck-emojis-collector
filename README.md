@@ -1,4 +1,4 @@
-Scrapes Unicode emoji data from the Unicode Consortium's website and generates Stream Deck profile.
+Scrapes emoji data from the Unicode Consortium's website and generates Stream Deck profile.
 
 ## Usage
 
